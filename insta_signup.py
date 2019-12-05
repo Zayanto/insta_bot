@@ -7,10 +7,10 @@ driver=webdriver.Chrome()
 z=driver.get('https://www.instagram.com')
 print(z)
 
-email_new='bonas.41.50@gmail.com'
-full_name_new='bonas'
-user_name_new= 'zzz'
-password_new='9953049100x'
+email_new='####@gmail.com'
+full_name_new='###'
+user_name_new= '###'
+password_new='####'
 
 
 email=driver.find_element_by_name('emailOrPhone')
